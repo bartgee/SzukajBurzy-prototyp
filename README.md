@@ -3,6 +3,9 @@ SzukajBurzy-prototyp
 
 Prototyp dla aplikacji napisanej w C++ (http://szukajburzy.tk).
 
+Dane o zagrożeniach pogodowych dostępne są poprzez SOAP API na stronie
+https://burze.dzis.net/?page=api_interfejs.
+
 Tak wygląda w działaniu:
 ```
 bart@tux:~/Dokumenty/python/github/SzukajBurzy-prototyp$
